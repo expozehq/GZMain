@@ -1,2 +1,0 @@
-# GZTest
-GitHub Pages
