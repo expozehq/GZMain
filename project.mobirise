@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page7.html",
+    "currentPage": "shop.html",
     "theme": {
       "name": "commercem4",
       "title": "CommerceM4",
@@ -71,7 +71,7 @@
       }
     ],
     "imageResize": true,
-    "uniqCompNum": 71,
+    "uniqCompNum": 75,
     "versionPublish": "5.3.0",
     "screenshot": "screenshot.png",
     "chatbutton": {},
@@ -87,7 +87,7 @@
     "cookiesAlert": false,
     "gdpr": false,
     "pwa-switcher": false,
-    "publishChangesOnly": true
+    "publishChangesOnly": false
   },
   "pages": {
     "about-microgreen.html": {
