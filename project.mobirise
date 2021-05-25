@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "pets-grass.html",
+    "currentPage": "microgreen.html",
     "theme": {
       "name": "commercem4",
       "title": "CommerceM4",
@@ -87,7 +87,7 @@
     "cookiesAlert": false,
     "gdpr": false,
     "pwa-switcher": false,
-    "publishChangesOnly": false,
+    "publishChangesOnly": true,
     "mcShopcart": {
       "email": "oleh.chernyuk@gmail.com",
       "currency": "AUD",
